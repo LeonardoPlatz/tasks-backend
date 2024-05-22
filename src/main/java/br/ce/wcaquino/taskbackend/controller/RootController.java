@@ -11,6 +11,6 @@ public class RootController {
 	
 	@GetMapping
 	public String hello() {
-		return "Hello World!";
+		return "Olá Mundo! Pós em DevOps UFMT!";
 	}
 }
